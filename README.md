@@ -1,4 +1,4 @@
-# FouQ-Bot
+# TSBotKit (FouQ-Bot Tempalte)
 
 A professional Discord bot built with TypeScript, featuring flexible database support (MySQL/SQLite).
 
@@ -26,7 +26,7 @@ A professional Discord bot built with TypeScript, featuring flexible database su
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd FouQ-Bot
+cd TSBotKit
 ```
 
 2. Install dependencies:
@@ -170,7 +170,7 @@ src/
 
 ## Command Usage
 
-FouQ-Bot supports both **Slash Commands** and **Prefix Commands**:
+TSBotKit supports both **Slash Commands** and **Prefix Commands**:
 
 ### Slash Commands
 ```
