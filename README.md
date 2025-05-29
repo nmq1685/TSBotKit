@@ -1,4 +1,4 @@
-# TSBotKit (FouQ-Bot Tempalte)
+# TSBotKit (FouQ-Bot Template)
 
 A professional Discord bot built with TypeScript, featuring flexible database support (MySQL/SQLite).
 
